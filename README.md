@@ -1,2 +1,2 @@
-# Arastirma-Yontem-ve-Teknikleri
-Araştırma Yöntem ve Teknikleri dersindeki çalışmalarım
+# Sporcu-Sakatlık-Takip-Sistemi
+Sporcu sakatlık takip ve rehabilitasyon UML ödevi
